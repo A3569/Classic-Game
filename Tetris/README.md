@@ -39,6 +39,3 @@ Studies have shown that playing Tetris can improve cognitive functions like spat
 6. Nostalgia
 
 For many, Tetris represents the golden age of gaming. Its iconic theme music (the Russian folk tune Korobeiniki) and blocky visuals evoke a sense of nostalgia that resonates with gamers worldwide.
-
-# Conclusion
-Tetris is more than just a game—it's a cultural phenomenon. Its blend of simplicity, challenge, and universality has made it a timeless classic. From its humble beginnings in the Soviet Union to its status as a global icon, Tetris has left an indelible mark on the history of video games and continues to captivate players across generations.
