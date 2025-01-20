@@ -3,3 +3,4 @@
 2. **Snake** (1976): a single-player tile-matching puzzle game
 3. **Chess** (1500s): a two-player strategy board game that belongs to the abstract strategy game genre
 4. **Battleships** (1931): a strategy and deduction-based board game
+5. **Bulls and Cows** (1970): a deduction-based and code-breaking puzzle game
