@@ -6,3 +6,4 @@
 5. **Bulls and Cows** (1970): a deduction-based and code-breaking puzzle game
 6. **Ultimate Password** (2000s???): a logic and strategy party guessing game
 7. **Guess My Number** (1900s???): a logic solo guessing game
+8. **Four in a row** (1974): a two-player abstract strategy board game
